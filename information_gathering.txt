@@ -1,0 +1,15 @@
+IP:	10.10.10.171
+Ports:	22, 80
+	80:	Apache 2.4.29
+
+Config files:
+1. /local/config/config.inc.php
+2. /local/config/database_settings.inc.php
+
+Mysql Database Login:	ona_sys:CENSORED@ona_default
+Internal Website Found: 127.0.0.1:52846
+
+Users:
+jimmy   :   CENSORED			(Server admin)
+joanna  :   private_key=CENSORED	(Internal responsibilities)
+
